@@ -41,5 +41,6 @@ Computer science is categorized into several fields. The following are among the
 * [Visualization of Data Structures](http://www.cs.usfca.edu/~galles/JavascriptVisual/Algorithms.html)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-science) : A deep dive into algorithms, cryptography, introductory computing, and much more.
 * [CS50](https://cs50.harvard.edu) : A free, introduction to computer science course, taught by David J. Malan and staff at Harvard & Yale Universities.
+* [CS50 - EDX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) : The Harvard CS50 course through the EDX MOOC platform where you can earn credits and accreditations. It is free, and you can pay for a certificate if you'd like.
 * [Visualization of Data Structures](http://www.cs.usfca.edu/~galles/JavascriptVisual/Algorithms.html)
 
